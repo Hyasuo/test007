@@ -4,3 +4,5 @@ def index():
 a = 10
 
 num = 10
+
+b = 20
